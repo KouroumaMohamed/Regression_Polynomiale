@@ -1,1 +1,3 @@
 # Regression_Polynomiale
+
+Le responsable RH passe un entretien avec un candidat pour un poste de Région Manager, à la fin de l’entretien il doit demander au candidat son attente en terme de salaire. Supposons que le candidat à un niveau 6.5 et compte tenu de son expérience et des son salaire dans son ancienne entreprise demande à avoir un salaire de 160K dollars par an. En se procurant des données de l’ancienne entreprise concernant le poste, le niveau et le salaire, en tant que Data Scientist on nous demande de prédire le salaire que cet candidat devrait avoir sachant qu’il était Région Manager.
